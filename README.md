@@ -10,6 +10,16 @@ Students can also give feedback to their coressponding faculties also.
 
 <a href="http://feedbackapp.great-site.net/">Click Here</a>
 
+# Features
+<ul>
+<li>Students have their dedicated profile</li>
+<li>A faculty can upload form for a particular semester or all semesters and also can check if any student have not filled it</li>
+<li>Faculties profiles are managed by admin and admin can even delete any student or faculty profile.</li>
+<li>Admin can also add any student and faculty profile on their own.</li>
+<li>Student would be given Feedback form at the last of the semester where they give their feedback to the teacher. A report is  generated at the backend which
+  can only be seen by admin and every teacher has marks out of 5 in that report. The screenshot of report is shown below</li>
+</ul>
+
 # Tech Stack 
 <ul>
 <li>PHP</li>
