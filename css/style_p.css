@@ -1,0 +1,125 @@
+body {
+  font-family: "M PLUS Rounded 1c", sans-serif;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-family: "Poppins", sans-serif;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.head {
+  height: 40vh;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+.head1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.head1 img {
+  height: 160px;
+}
+.head2 {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+.t1 {
+  font-size: 2rem;
+  text-align: center;
+  font-weight: 500;
+}
+.t2 {
+  font-size: 3rem;
+  font-weight: 700;
+  text-align: center;
+  color: orange;
+}
+.t3 {
+  align-items: center;
+}
+.t3 {
+  font-size: 25px;
+}
+.head3 img {
+  margin-top: 60px;
+  width: 200px;
+}
+@media only screen and (max-width: 900px) {
+  .t3 {
+    display: none;
+  }
+}
+@media only screen and (max-width: 500px) {
+  .head3 img {
+    height: 100px;
+    width: 80px;
+    margin-top: 80px;
+  }
+  .head1 img {
+    height: 100px;
+    width: 80px;
+  }
+  .t1 {
+    font-size: 15px;
+  }
+  .t2 {
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin-top: 50px;
+  }
+}
+.profile {
+  height: 249px;
+  width: 307px;
+  display: flex;
+  flex-direction: column;
+  border: 3px solid black;
+  padding: 4px;
+  margin: auto;
+  border-radius: 10px;
+  background-color: orange;
+}
+.faculty,
+.student,
+.admin {
+  height: 83px;
+}
+.profile button {
+  border: 2px solid black;
+  border-radius: 10px;
+  width: 300px;
+  margin: 3px;
+  font-size: 25px;
+}
+.profile button i {
+  margin-right: 6px;
+}
+
+.profile button:hover {
+  background-color: whitesmoke;
+  font-size: 26px;
+}
+
+.footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: black;
+  height: 50px;
+  margin-bottom: 0;
+}
+
+.text1,
+.text2 {
+  margin-top: 15px;
+  color: white;
+}
+.text1 {
+  margin-left: 5px;
+}
+.text2 {
+  margin-right: 5px;
+}
