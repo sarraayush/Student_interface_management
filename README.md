@@ -26,5 +26,18 @@ Faculty : Aayush@ftmail.com :Test@12345
 
 Student : Aayush@gmail.com:Test@12345
 
+# Some ScreenShots
+
+![image](https://github.com/sarraayush/Student_interface_management/assets/78674879/351bf3d4-e8d3-4bae-aa5a-dfbc09cde1a0)
+
+![image](https://github.com/sarraayush/Student_interface_management/assets/78674879/b65350cc-d371-4010-9557-90e0911138e3)
+
+![image](https://github.com/sarraayush/Student_interface_management/assets/78674879/fc1c48f3-59be-4923-8e57-2032ec55c8b9)
+
+![image](https://github.com/sarraayush/Student_interface_management/assets/78674879/5e997da6-8c3a-49b4-b9f0-bc6a1e89c5ec)
+
+
+
+
 # Creators 
 Aayush Kumar : Aayushkumar17052002@gmail.com
